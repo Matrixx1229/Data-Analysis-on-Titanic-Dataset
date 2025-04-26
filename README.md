@@ -1,7 +1,4 @@
 # Data-Analysis-on-Titanic-Dataset
-Certainly! Below is a structured README file based on the comprehensive framework for Exploratory Data Analysis (EDA) that you provided. This README is designed to be clear and easy to read.
-
----
 
 # Exploratory Data Analysis (EDA) Framework
 
